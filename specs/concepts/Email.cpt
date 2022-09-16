@@ -1,0 +1,11 @@
+Burhan1925.
+
+# Android'te Email hesabı girilir ve devam edilir.
+* "EmailAnd" 'li elemente "burhanaydinotomasyonandroidtestibir@gmail.com" degeri girilir.
+* "SingInButtonAnd" li elemente tıklanır.
+//* "ApproveBasketButton" li elemente tıklanır.
+
+# Web'te Email hesabı girilir ve devam edilir.
+* "Email" 'li elemente "burhanaydinotomasyonawebtestiiki@gmail.com" degeri girilir.
+* "ContinueButton" li elemente tıklanır.
+//* "ClosePopUp" 'li elemente görünür ise  tıklanır.

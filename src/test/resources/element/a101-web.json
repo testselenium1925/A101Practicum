@@ -1,0 +1,237 @@
+[
+  {
+    "keyword": "AcceptPopupButton",
+    "locatorType": "id",
+    "locatorValue": "CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "Clothes&AccessoryCategory",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@title='GİYİM & AKSESUAR'])[1]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "WomanClothesSubCategory",
+    "locatorType": "xpath",
+    "locatorValue": "(//a[@title='Kadın İç Giyim'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "WomanSockDetailSubCategory",
+    "locatorType": "xpath",
+    "locatorValue": "(//a[@title='Dizaltı Çorap'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ProductWomenBlackSock",
+    "locatorType": "xpath",
+    "locatorValue": "(//a[@title='Penti Kadın 50 Denye Pantolon Çorabı Siyah'])[1]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ProductWomenBlackSockName",
+    "locatorType": "xpath",
+    "locatorValue": "//span[text()='SİYAH']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddBasketButton",
+    "locatorType": "css",
+    "locatorValue": "[class='add-to-basket button green block with-icon js-add-basket']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "GoToBasket",
+    "locatorType": "css",
+    "locatorValue": "[class='go-to-shop']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ApproveBasketButton",
+    "locatorType": "css",
+    "locatorValue": "[class='button green checkout-button block js-checkout-button']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ContinueWithoutMembership",
+    "locatorType": "css",
+    "locatorValue": "[class='auth__form__proceed js-proceed-to-checkout-btn']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "Email",
+    "locatorType": "xpath",
+    "locatorValue": "//input[@name='user_email']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ContinueButton",
+    "locatorType": "xpath",
+    "locatorValue": "//button[@class='button block green']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddNewAddress",
+    "locatorType": "xpath",
+    "locatorValue": "(//a[@title='Yeni adres oluştur'])[1]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddressTitle",
+    "locatorType": "xpath",
+    "locatorValue": "//input[@name='title']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CustomerName",
+    "locatorType": "xpath",
+    "locatorValue": "//input[@name='first_name']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CustomerSurname",
+    "locatorType": "xpath",
+    "locatorValue": "//input[@name='last_name']",
+    "deviceInfo": "web"
+  },
+  {
+  "keyword": "CustomerPhoneNumber",
+  "locatorType": "css",
+  "locatorValue": "[class='js-phone-number']",
+  "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddressCityButton",
+    "locatorType": "css",
+    "locatorValue": "[class='js-cities']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddressDistrictButton",
+    "locatorType": "css",
+    "locatorValue": "[class='js-township']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddressNeighbourhoodButton",
+    "locatorType": "css",
+    "locatorValue": "[class='js-district']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SelectCity",
+    "locatorType": "xpath",
+    "locatorValue": "//option[text()='İZMİR']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SelectDistrict",
+    "locatorType": "xpath",
+    "locatorValue": "//option[text()='GÜZELBAHÇE']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SelectNeighbourhood",
+    "locatorType": "xpath",
+    "locatorValue": "//option[text()='MALTEPE MAH']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddAddressDetail",
+    "locatorType": "css",
+    "locatorValue": "[class='js-address-textarea']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "PostCode",
+    "locatorType": "css",
+    "locatorValue": "[class='js-post-code']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "AddressSaveButtons",
+    "locatorType": "css",
+    "locatorValue": "[class='button green js-set-country js-prevent-emoji']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ClosePopUp",
+    "locatorType": "css",
+    "locatorValue": "[class='closePopupPersona']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SaveAndContinueButton",
+    "locatorType": "css",
+    "locatorValue": "[class='button block green js-proceed-button']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CreditCardName&Surname",
+    "locatorType": "xpath",
+    "locatorValue": "(//input[@name='name'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CreditCardNumber",
+    "locatorType": "css",
+    "locatorValue": "[class='js-masterpassbin-payment-card']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CreditCardCVCNumber",
+    "locatorType": "xpath",
+    "locatorValue": "(//input[@class='js-payment-cvv'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CreditCardMonth",
+    "locatorType": "xpath",
+    "locatorValue": "(//select[@class='js-payment-month'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CreditCardYear",
+    "locatorType": "xpath",
+    "locatorValue": "(//select[@class='js-payment-year'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SelectMonth",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[@value='8'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "SelectYear",
+    "locatorType": "xpath",
+    "locatorValue": "(//option[@value='2022'])[2]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ContractApproveCheckBox",
+    "locatorType": "xpath",
+    "locatorValue": "//label[@for='agrement2']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "CompleteOrderButton",
+    "locatorType": "css",
+    "locatorValue": "[class='order-complete']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "MasterPass",
+    "locatorType": "xpath",
+    "locatorValue": "//div[normalize-space(text())='Masterpass ile Ödeme']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "web"
+  }
+]
+

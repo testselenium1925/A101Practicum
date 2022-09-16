@@ -1,0 +1,285 @@
+[
+  {
+    "keyword": "OptionsButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='\uE90F']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SingInRegisterButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Giriş Yap / Üye Ol']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreateAccountButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='HESAP OLUŞTUR']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "Name",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Ad']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "Surname",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Soyad']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "EmailAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='E-posta Adresiniz']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "PhoneNumberAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Cep Telefonu 0 (555) 555 55 55']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "PasswordAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Şifre']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "InformationEmailButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Bilgilendirme e-postalarını almak istiyorum']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "InformationSmsButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Bilgilendirme SMS’lerini almak istiyorum']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ContractApproveButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Lütfen üyelik sözleşmesini onaylayınız.']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SingInButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='GÖNDER']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "Clothes&AccessoryCategoryAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='GİYİM & AKSESUAR']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "WomanClothesSubCategoryAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Kadın İç Giyim']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "WomanSockDetailSubCategoryAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Dizaltı Çorap']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ProductWomenBlackSockAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Penti Kadın 50 Denye Pantolon Çorabı Siyah']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddBasketButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='SEPETE EKLE']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "GoToBasketButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='SEPETE GİT']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ApproveBasketButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='SEPETİ ONAYLA']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AcceptPopupButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='KABUL ET']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddNewAddressAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text=' Yeni adres oluştur']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddressTitleAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[1]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CustomerNameAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CustomerSurnameAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[3]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CustomerPhoneNumberAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[4]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddressCityButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Seçiniz']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddressDistrictButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.Spinner'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddressNeighbourhoodButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.Spinner'])[3]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectCityAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='İZMİR']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectDistrictAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='GÜZELBAHÇE']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectNeighbourhoodAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='MALTEPE MAH']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddAddressDetailAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[1]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "PostCodeAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "AddressSaveButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//* [@class='android.widget.Button'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ContinueWithoutMembershipAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Üye olmadan devam et']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SaveAndContinueButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@class='android.widget.Button']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreditCardName&SurnameAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[1]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreditCardNumberAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreditCardCVCNumberAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[3]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreditCardMonthAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.Spinner'])[1]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CreditCardYearAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.widget.Spinner'])[2]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectMonthAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@resource-id='android:id/text1'])[8]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectYearAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@resource-id='android:id/text1'])[1]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "ContractApproveCheckBoxAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='\uE92A']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "CompleteOrderButtonAnd",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@class='android.view.View'])[30]",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "MasterPassAnd",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='Masterpass ile Ödeme']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "xxxx",
+    "locatorType": "xxxx",
+    "locatorValue": "xxxx",
+    "deviceInfo": "android"
+  }
+]
+

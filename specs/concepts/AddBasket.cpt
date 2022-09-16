@@ -1,0 +1,12 @@
+Burhan1925.
+
+# Android'te Ürün sepete eklenir,sepet görüntülenir ve sepete gidilir.
+* "AddBasketButtonAnd" li elemente tıklanır.
+* "GoToBasketButtonAnd" li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "ApproveBasketButtonAnd" li elemente tıklanır.
+
+# Web'te Ürün sepete eklenir,sepet görüntülenir ve sepete gidilir.
+* "AddBasketButton" li elemente tıklanır.
+* "GoToBasket" li elemente tıklanır.
+* "ApproveBasketButton" li elemente tıklanır.

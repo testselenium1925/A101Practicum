@@ -1,0 +1,8 @@
+Burhan1925.
+
+# Android'te Üye olmadan devam et butonuna tıklanır.
+* "ContinueWithoutMembershipAnd" li elemente tıklanır.
+
+# Web'te Üye olmadan devam et butonuna tıklanır.
+* "ContinueWithoutMembership" li elemente tıklanır.
+* "3" saniye kadar beklenir.

@@ -1,0 +1,12 @@
+Burhan1925.
+
+# Android'te Diz altı çorap bölümüne gidilir ve ilk ürün açılır.
+* "WomanSockDetailSubCategoryAnd" li elemente tıklanır.
+* "ProductWomenBlackSockAnd" li elemente tıklanır.
+* "5" saniye kadar beklenir.
+
+# Web'te Diz altı çorap bölümüne gidilir ve ilk ürün açılır.
+* "WomanSockDetailSubCategory" li elemente tıklanır.
+* "3" saniye kadar beklenir.
+* "ProductWomenBlackSock" li elemente tıklanır.
+* "5" saniye kadar beklenir.

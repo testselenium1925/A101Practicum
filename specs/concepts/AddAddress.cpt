@@ -1,0 +1,49 @@
+Burhan1925.
+
+# Android'te Yeni adres kaydı oluşturulur.
+* "10" saniye kadar beklenir.
+* "AcceptPopupButtonAnd" li elemente tıklanır.
+* "AddNewAddressAnd" li elemente tıklanır.
+* "AddressTitleAnd" 'li elemente "Ev" degeri girilir.
+* "CustomerNameAnd" 'li elemente "Burhan" degeri girilir.
+* "CustomerSurnameAnd" 'li elemente "Aydın" degeri girilir.
+* "CustomerPhoneNumberAnd" 'li elemente "5555553535" degeri girilir.
+* "AddressCityButtonAnd" li elemente tıklanır.
+* "SelectCityAnd" li elemente tıklanır.
+* Sayfada aşağı kaydırma yapılır.
+* "AddressDistrictButtonAnd" li elemente tıklanır.
+* Sayfada aşağı kaydırma yapılır.
+* Sayfada aşağı kaydırma yapılır.
+* "SelectDistrictAnd" li elemente tıklanır.
+* "AddressNeighbourhoodButtonAnd" li elemente tıklanır.
+* "SelectNeighbourhoodAnd" li elemente tıklanır.
+* Sayfada aşağı kaydırma yapılır.
+* "AddAddressDetailAnd" 'li elemente "Maltepe mah. No:100 Güzelbahçe/İzmir" degeri girilir.
+* "PostCodeAnd" 'li elemente "35310" degeri girilir.
+* "AddressSaveButtonAnd" li elemente tıklanır.
+* "10" saniye kadar beklenir.
+* Sayfada aşağı kaydırma yapılır.
+* "SaveAndContinueButtonAnd" li elemente tıklanır.
+
+# Web'te Yeni adres kaydı oluşturulur.
+* "AddNewAddress" li elemente tıklanır.
+* "AddressTitle" 'li elemente "Ev" degeri girilir.
+* "CustomerName" 'li elemente "Burhan" degeri girilir.
+* "CustomerSurname" 'li elemente "Aydın" degeri girilir.
+* "CustomerPhoneNumber" 'li elemente "5555553535" degeri girilir.
+* "AddressCityButton" li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "SelectCity" li elemente tıklanır.
+* "AddressDistrictButton" li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "SelectDistrict" li elemente tıklanır.
+* "AddressNeighbourhoodButton" li elemente tıklanır.
+* "2" saniye kadar beklenir.
+* "SelectNeighbourhood" li elemente tıklanır.
+* "AddAddressDetail" 'li elemente "Maltepe mah. No:100 Güzelbahçe/İzmir" degeri girilir.
+* "PostCode" 'li elemente "35310" degeri girilir.
+* "4" saniye kadar beklenir.
+* "AddressSaveButtons" li elemente tıklanır.
+* "4" saniye kadar beklenir.
+* "SaveAndContinueButton" li elemente tıklanır.
+* "ClosePopUp" 'li elemente görünür ise  tıklanır.

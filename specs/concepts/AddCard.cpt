@@ -1,0 +1,22 @@
+Burhan1925.
+
+# Android'te Ödeme ekranına gidilir ve Kart bilgileri girilir.
+* "CreditCardName&SurnameAnd" 'li elemente "Burhan Aydın" degeri girilir.
+* "CreditCardNumberAnd" 'li elemente "4282209004348015" degeri girilir.
+* "CreditCardMonthAnd" li elemente tıklanır.
+* "SelectMonthAnd" li elemente tıklanır.
+* "CreditCardYearAnd" li elemente tıklanır.
+* "SelectYearAnd" li elemente tıklanır.
+* "CreditCardCVCNumberAnd" 'li elemente "123" degeri girilir.
+// Test Kart Numarası: 4282 2090 0434 8015 Ay: 08 Yıl: 22 CSS: 123
+
+# Web'te Ödeme ekranına gidilir ve Kart bilgileri girilir.
+* "CreditCardName&Surname" 'li elemente "Burhan Aydın" degeri girilir.
+* "CreditCardNumber" 'li elemente "4282209004348015" degeri girilir.
+* "CreditCardMonth" li elemente tıklanır.
+* "SelectMonth" li elemente tıklanır.
+* "CreditCardYear" li elemente tıklanır.
+* "SelectYear" li elemente tıklanır.
+* "CreditCardCVCNumber" 'li elemente "123" degeri girilir.
+// Test Kart Numarası: 4282 2090 0434 8015 Ay: 08 Yıl: 22 CSS: 123
+//* "ContractApproveCheckBox" li elemente tıklanır.

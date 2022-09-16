@@ -1,0 +1,12 @@
+Burhan1925.
+
+# Android'te Ödeme ekranına gidildiği doğrulanır.
+* "MasterPassAnd" ödeme ekranına gelindiği kontrol edilir.
+* "CompleteOrderButtonAnd" li elemente tıklanır.
+//* Sayfada aşağı kaydırma yapılır.
+//* "ContractApproveCheckBoxAnd" li elemente tıklanır.
+
+# Web'te Ödeme ekranına gidildiği doğrulanır.
+* "MasterPass" web ödeme ekranına gelindiği kontrol edilir.
+//* "ContractApproveCheckBox" li elemente tıklanır.
+* "CompleteOrderButton" li elemente tıklanır.

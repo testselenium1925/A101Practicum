@@ -1,0 +1,12 @@
+Burhan1925.
+
+# Android'te Giyim&Aksesuar kategorisine gidilir.
+* "10" saniye kadar beklenir.
+* "OptionsButtonAnd" li elemente tıklanır.
+* "Clothes&AccessoryCategoryAnd" li elemente tıklanır.
+
+# Web'te Giyim&Aksesuar kategorisine gidilir.
+* "AcceptPopupButton" li elemente tıklanır.
+//* "ClosePopUp" 'li elemente görünür ise  tıklanır.
+* "Clothes&AccessoryCategory" li elemente tıklanır.
+
