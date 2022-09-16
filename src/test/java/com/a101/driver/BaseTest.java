@@ -21,13 +21,11 @@ public class BaseTest extends DriverManager {
 
     @BeforeScenario
     public void setup(ExecutionContext context) throws MalformedURLException {
-        System.out.println("before");
         initDriver(context);
     }
 
     @AfterScenario
     public void AfterScenario() {
-        System.out.println("after");
         closeDriver();
     }
 }
