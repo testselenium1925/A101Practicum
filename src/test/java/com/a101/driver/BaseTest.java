@@ -10,9 +10,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.net.MalformedURLException;
 
 public class BaseTest extends DriverManager {
-
-
-
     public static Logger logger;
 
     public BaseTest() {
