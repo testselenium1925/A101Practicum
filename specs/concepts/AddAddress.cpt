@@ -8,6 +8,7 @@ Burhan1925.
 * "CustomerNameAnd" 'li elemente "Burhan" degeri girilir.
 * "CustomerSurnameAnd" 'li elemente "Aydın" degeri girilir.
 * "CustomerPhoneNumberAnd" 'li elemente "5555553535" degeri girilir.
+* Sayfada aşağı kaydırma yapılır.
 * "AddressCityButtonAnd" li elemente tıklanır.
 * "SelectCityAnd" li elemente tıklanır.
 * Sayfada aşağı kaydırma yapılır.
@@ -17,9 +18,9 @@ Burhan1925.
 * "SelectDistrictAnd" li elemente tıklanır.
 * "AddressNeighbourhoodButtonAnd" li elemente tıklanır.
 * "SelectNeighbourhoodAnd" li elemente tıklanır.
-* Sayfada aşağı kaydırma yapılır.
+/* Sayfada aşağı kaydırma yapılır.
 * "AddAddressDetailAnd" 'li elemente "Maltepe mah. No:100 Güzelbahçe/İzmir" degeri girilir.
-* "PostCodeAnd" 'li elemente "35310" degeri girilir.
+/* "PostCodeAnd" 'li elemente "35310" degeri girilir.
 * "AddressSaveButtonAnd" li elemente tıklanır.
 * "10" saniye kadar beklenir.
 * Sayfada aşağı kaydırma yapılır.
@@ -41,8 +42,8 @@ Burhan1925.
 * "2" saniye kadar beklenir.
 * "SelectNeighbourhood" li elemente tıklanır.
 * "AddAddressDetail" 'li elemente "Maltepe mah. No:100 Güzelbahçe/İzmir" degeri girilir.
-* "PostCode" 'li elemente "35310" degeri girilir.
-* "4" saniye kadar beklenir.
+/* "PostCode" 'li elemente "35310" degeri girilir.
+* "2" saniye kadar beklenir.
 * "AddressSaveButtons" li elemente tıklanır.
 * "4" saniye kadar beklenir.
 * "SaveAndContinueButton" li elemente tıklanır.

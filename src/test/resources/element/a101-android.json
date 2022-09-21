@@ -188,13 +188,13 @@
   {
     "keyword": "AddAddressDetailAnd",
     "locatorType": "xpath",
-    "locatorValue": "(//*[@class='android.widget.EditText'])[1]",
+    "locatorValue": "(//*[@class='android.widget.EditText'])[2]",
     "deviceInfo": "android"
   },
   {
     "keyword": "PostCodeAnd",
     "locatorType": "xpath",
-    "locatorValue": "(//*[@class='android.widget.EditText'])[2]",
+    "locatorValue": "//*[@class='android.widget.EditText']",
     "deviceInfo": "android"
   },
   {
