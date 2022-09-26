@@ -45,6 +45,6 @@ Burhan1925.
 /* "PostCode" 'li elemente "35310" degeri girilir.
 * "2" saniye kadar beklenir.
 * "AddressSaveButtons" li elemente tıklanır.
-* "4" saniye kadar beklenir.
+* "2" saniye kadar beklenir.
 * "SaveAndContinueButton" li elemente tıklanır.
 * "ClosePopUp" 'li elemente görünür ise  tıklanır.

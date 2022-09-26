@@ -7,6 +7,6 @@ Burhan1925.
 
 # Web'te Diz altı çorap bölümüne gidilir ve ilk ürün açılır.
 * "WomanSockDetailSubCategory" li elemente tıklanır.
-* "3" saniye kadar beklenir.
+* "1" saniye kadar beklenir.
 * "ProductWomenBlackSock" li elemente tıklanır.
-* "5" saniye kadar beklenir.
+* "2" saniye kadar beklenir.
