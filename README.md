@@ -1,4 +1,4 @@
-# **Gauge Framework'ü ile Mobil ve Android Test Otomasyonu**
+# **Gauge Framework'ü ile Web ve Mobile Test Otomasyonu**
 # A101 Web/Mobile Scenario
 # AllSteps A101 Web Scenario
 **Tags:chrome**
